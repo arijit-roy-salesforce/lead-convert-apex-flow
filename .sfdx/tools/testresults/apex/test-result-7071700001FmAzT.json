@@ -1,0 +1,46 @@
+{
+    "summary": {
+        "outcome": "Failed",
+        "testsRan": 1,
+        "passing": 0,
+        "failing": 1,
+        "skipped": 0,
+        "passRate": "0%",
+        "failRate": "100%",
+        "testStartTime": "Oct 14, 2019 1:57 PM",
+        "testExecutionTime": "210 ms",
+        "testTotalTime": "210 ms",
+        "commandTime": "2848 ms",
+        "hostname": "https://cs22.salesforce.com",
+        "orgId": "00D17000000DOB7EAO",
+        "username": "aroy@acumensolutions.com.df19.df19box",
+        "testRunId": "7071700001FmAzT",
+        "userId": "0053k000009wqnTAAQ"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v47.0/tooling/sobjects/ApexTestResult/07M17000003yp6CEAQ"
+            },
+            "Id": "07M17000003yp6CEAQ",
+            "QueueItemId": "70917000000C2aHAAS",
+            "StackTrace": "Class.TestBot_PreChatCmpCtrl.testCase1: line 10, column 1",
+            "Message": "System.QueryException: List has no rows for assignment to SObject",
+            "AsyncApexJobId": "7071700001FmAzTAAV",
+            "MethodName": "testCase1",
+            "Outcome": "Fail",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v47.0/tooling/sobjects/ApexClass/01p17000003nUs3AAE"
+                },
+                "Id": "01p17000003nUs3AAE",
+                "Name": "TestBot_PreChatCmpCtrl",
+                "NamespacePrefix": null
+            },
+            "RunTime": 210,
+            "FullName": "TestBot_PreChatCmpCtrl.testCase1"
+        }
+    ]
+}

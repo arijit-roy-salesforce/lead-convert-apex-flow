@@ -1,0 +1,17 @@
+# exlude everything
+applications/*
+aura/*
+classes/*
+contentassets/*
+flexipages/*
+layouts/*
+lwc/*
+objects/*
+pages/*
+permissionsets/*
+staticresources/*
+tabs/*
+triggers/*
+
+#include file
+!classes/LeadConvertController.cls

@@ -1,0 +1,46 @@
+{
+    "summary": {
+        "outcome": "Passed",
+        "testsRan": 1,
+        "passing": 1,
+        "failing": 0,
+        "skipped": 0,
+        "passRate": "100%",
+        "failRate": "0%",
+        "testStartTime": "Oct 14, 2019 11:05 AM",
+        "testExecutionTime": "702 ms",
+        "testTotalTime": "702 ms",
+        "commandTime": "7277 ms",
+        "hostname": "https://cs22.salesforce.com",
+        "orgId": "00D17000000DOB7EAO",
+        "username": "aroy@acumensolutions.com.df19.df19box",
+        "testRunId": "7071700001Fm9XV",
+        "userId": "0053k000009wqnTAAQ"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v47.0/tooling/sobjects/ApexTestResult/07M17000003yo8vEAA"
+            },
+            "Id": "07M17000003yo8vEAA",
+            "QueueItemId": "70917000000C2TzAAK",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7071700001Fm9XVAAZ",
+            "MethodName": "testCasse1",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v47.0/tooling/sobjects/ApexClass/01p17000003nUeXAAU"
+                },
+                "Id": "01p17000003nUeXAAU",
+                "Name": "TestCommunitiesLoginController",
+                "NamespacePrefix": null
+            },
+            "RunTime": 702,
+            "FullName": "TestCommunitiesLoginController.testCasse1"
+        }
+    ]
+}

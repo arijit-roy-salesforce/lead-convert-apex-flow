@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-10-14T13:57:24-04:00" hostname="https://cs22.salesforce.com" tests="1" failures="1"  errors="0"  time="0.21">
+        <properties>
+            <property name="outcome" value="Failed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="0"/>
+            <property name="failing" value="1"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="0%"/>
+            <property name="failRate" value="100%"/>
+            <property name="testStartTime" value="Oct 14, 2019 1:57 PM"/>
+            <property name="testExecutionTime" value="0.21 s"/>
+            <property name="testTotalTime" value="0.21 s"/>
+            <property name="commandTime" value="2.85 s"/>
+            <property name="hostname" value="https://cs22.salesforce.com"/>
+            <property name="orgId" value="00D17000000DOB7EAO"/>
+            <property name="username" value="aroy@acumensolutions.com.df19.df19box"/>
+            <property name="testRunId" value="7071700001FmAzT"/>
+            <property name="userId" value="0053k000009wqnTAAQ"/>
+        </properties>
+        <testcase name="testCase1" classname="TestBot_PreChatCmpCtrl" time="0.21">
+            <failure message="System.QueryException: List has no rows for assignment to SObject"><![CDATA[Class.TestBot_PreChatCmpCtrl.testCase1: line 10, column 1]]></failure>
+        </testcase>
+    </testsuite>
+</testsuites>

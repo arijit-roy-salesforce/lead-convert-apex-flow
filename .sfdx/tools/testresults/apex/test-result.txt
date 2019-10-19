@@ -1,0 +1,40 @@
+=== Test Reports
+FORMAT  FILE
+──────  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+txt     /Users/aroy/Documents/Salesforce Workspace/DF19 Acumen/.sfdx/tools/testresults/apex/test-result.txt
+txt     /Users/aroy/Documents/Salesforce Workspace/DF19 Acumen/.sfdx/tools/testresults/apex/test-run-id.txt
+junit   /Users/aroy/Documents/Salesforce Workspace/DF19 Acumen/.sfdx/tools/testresults/apex/test-result-7071700001FmAzT-junit.xml
+json    /Users/aroy/Documents/Salesforce Workspace/DF19 Acumen/.sfdx/tools/testresults/apex/test-result-7071700001FmAzT.json
+
+=== Test Results
+TEST NAME                         OUTCOME  MESSAGE                                                            RUNTIME (MS)
+────────────────────────────────  ───────  ─────────────────────────────────────────────────────────────────  ────────────
+TestBot_PreChatCmpCtrl.testCase1  Fail     System.QueryException: List has no rows for assignment to SObject  210
+                                           Class.TestBot_PreChatCmpCtrl.testCase1: line 10, column 1
+
+=== Failures
+FULLNAME                          MESSAGE
+────────────────────────────────  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+TestBot_PreChatCmpCtrl.testCase1  System.QueryException: List has no rows for assignment to SObject
+                                  /Users/aroy/Documents/Salesforce Workspace/DF19 Acumen/force-app/main/default/classes/TestBot_PreChatCmpCtrl.cls:10:1
+
+=== Test Summary
+NAME                 VALUE
+───────────────────  ──────────────────────────────────────
+Outcome              Failed
+Tests Ran            1
+Passing              0
+Failing              1
+Skipped              0
+Pass Rate            0%
+Fail Rate            100%
+Test Start Time      Oct 14, 2019 1:57 PM
+Test Execution Time  210 ms
+Test Total Time      210 ms
+Command Time         2848 ms
+Hostname             https://cs22.salesforce.com
+Org Id               00D17000000DOB7EAO
+Username             aroy@acumensolutions.com.df19.df19box
+Test Run Id          7071700001FmAzT
+User Id              0053k000009wqnTAAQ
+

@@ -1,0 +1,3 @@
+<aura:component implements="lightningsnapin:prechatUI" controller="Bot_PreChatCmpCnt">
+
+</aura:component>	

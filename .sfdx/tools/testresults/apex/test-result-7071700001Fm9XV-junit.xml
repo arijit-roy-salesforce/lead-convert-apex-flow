@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-10-14T11:05:57-04:00" hostname="https://cs22.salesforce.com" tests="1" failures="0"  errors="0"  time="0.7">
+        <properties>
+            <property name="outcome" value="Passed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="1"/>
+            <property name="failing" value="0"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="100%"/>
+            <property name="failRate" value="0%"/>
+            <property name="testStartTime" value="Oct 14, 2019 11:05 AM"/>
+            <property name="testExecutionTime" value="0.7 s"/>
+            <property name="testTotalTime" value="0.7 s"/>
+            <property name="commandTime" value="7.28 s"/>
+            <property name="hostname" value="https://cs22.salesforce.com"/>
+            <property name="orgId" value="00D17000000DOB7EAO"/>
+            <property name="username" value="aroy@acumensolutions.com.df19.df19box"/>
+            <property name="testRunId" value="7071700001Fm9XV"/>
+            <property name="userId" value="0053k000009wqnTAAQ"/>
+        </properties>
+        <testcase name="testCasse1" classname="TestCommunitiesLoginController" time="0.7">
+        </testcase>
+    </testsuite>
+</testsuites>
